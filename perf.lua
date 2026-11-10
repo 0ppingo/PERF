@@ -37,7 +37,7 @@ local WEAK = { __mode = "k" }
 ------------------------------------------------------------------
 -- 1. CONFIGURAÇÃO
 ------------------------------------------------------------------
-local ICON_PATH = "axioriasolver/testplugin/refs/heads/main/icon" -- TROQUE pelo ícone do seu repositório (formato do guia)
+local ICON_PATH = "0ppingo/PERF/main/icon"
 
 local PROFILES = {
 	LOW = {
