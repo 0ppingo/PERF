@@ -37,7 +37,7 @@ local WEAK = { __mode = "k" }
 ------------------------------------------------------------------
 -- 1. CONFIGURAÇÃO
 ------------------------------------------------------------------
-local ICON_PATH = "0ppingo/PERF/main/icon"
+local ICON_PATH = "0ppingo/PERF/refs/heads/main/icon"
 
 local PROFILES = {
 	LOW = {
