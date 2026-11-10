@@ -87,7 +87,7 @@ local BLOCK_KEYWORDS = {
 	"npc", "tool", "weapon", "boss", "enemy", "mob", "heal", "powerup", "cash", "money",
 	"fruit", "egg", "hitbox", "trigger", "damage", "kill", "lava", "interact", "item",
 	"checkpoint", "goal", "finish", "target", "bomb", "projectile", "bullet", "ball",
-	"key", "seat", "vehicle", "star", "gift", "present",
+	"key", "seat", "vehicle", "star", "gift", "present", "candies2026",
 }
 
 local HYSTERESIS = 0.9      -- para voltar ao detalhe, precisa entrar a 90% da distância
